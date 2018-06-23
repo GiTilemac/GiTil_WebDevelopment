@@ -36,3 +36,10 @@ Prerequisites:
 Image Sources:  
 api-site background: https://goodstock.photos/distant-downtown-city-buildings-in-smog/  
 demo-site background: https://www.pexels.com/photo/air-air-pollution-chimney-city-221000/
+
+## Website usage snapshots:  
+
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test1.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test2.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test3.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test4.jpg)
