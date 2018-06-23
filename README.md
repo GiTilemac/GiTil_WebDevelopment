@@ -3,7 +3,7 @@ Web Development University Project
 
 *GiTil_WebDevelopment is licensed under the GNU General Public License v3.0*
 
-Computer Engineering and Informatics Department
+Computer Engineering and Informatics Department  
 University of Patras  
 Winter Semester 2015  
 Web Programming and Systems  
@@ -18,8 +18,8 @@ Prerequisites:
  * Wampserver 3.0.6
  * Apache 2.4.23
  * PHP 5.6.15
- * MySQL 5.7.9  
- 
+ * MySQL 5.7.9
+
 1. wampserver must be installed   
 2. Ensure that 'wampapache' and 'wampmysql' services are not disabled
 3. Place api-site in .../wamp/www folder  
