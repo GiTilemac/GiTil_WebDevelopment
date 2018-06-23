@@ -33,6 +33,6 @@ Prerequisites:
 7. Navigate to http://api-site.com or http://localhost  
 8. Ensure that Google Maps API key is up-to-date for heatmap at http://api-site/demo-site  
 
-Image Sources:
-api-site background: https://goodstock.photos/distant-downtown-city-buildings-in-smog/
+Image Sources:  
+api-site background: https://goodstock.photos/distant-downtown-city-buildings-in-smog/  
 demo-site background: https://www.pexels.com/photo/air-air-pollution-chimney-city-221000/
