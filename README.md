@@ -39,7 +39,7 @@ demo-site background: https://www.pexels.com/photo/air-air-pollution-chimney-cit
 
 ## Website usage snapshots:  
 
-![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test1.jpg)
-![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test2.jpg)
-![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test3.jpg)
-![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/test4.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/Snapshots/snapshot1.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/Snapshots/snapshot2.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/Snapshots/snapshot3.jpg)
+![alt text](https://github.com/GiTilemac/GiTil_WebDevelopment/blob/master/Snapshots/snapshot4.jpg)
