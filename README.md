@@ -4,11 +4,11 @@ Web Development University Project
 *GiTil_WebDevelopment is licensed under the GNU General Public License v3.0*
 
 Computer Engineering and Informatics Department
-University of Patras
-Winter Semester 2015
-Web Programming and Systems
+University of Patras  
+Winter Semester 2015  
+Web Programming and Systems  
 
-Authors: Tilemachos S. Doganis, Georgios Katsandris
+#### Authors: Tilemachos S. Doganis, Georgios Katsandris
 
 This project is a full-stack implementation of a simple website running on localhost. It consists of a database of the [Greek Government's
 Atmospheric Pollution data](http://www.ypeka.gr/Default.aspx?tabid=492&language=el-GR), as well as an API and two websites for managing
